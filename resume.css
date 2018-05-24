@@ -1,0 +1,179 @@
+.navbar{
+  background-color:#061922;
+  border:none;
+  margin :15px -15px;
+  height:60px;
+  color:#364F6B;
+}
+.logo img{
+  float:left;
+  height:50px;
+  width:50px;
+}
+.Menu .navbar-nav .active a{
+  color:#364F6B;
+}
+.navbar-default .navbar-brand{
+  color:#ffffff;
+  font-weight:bold;
+  font-size:30px;
+  float:left;
+  padding-left:20px;
+}
+.navbar-default .navbar-nav{
+  display:block;
+  font-weight:bold;
+  font-size:15px;
+}
+.text-center{
+  position:center;
+}
+.bg-overlay{
+  background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.2)), url("https://scontent-sit4-1.cdninstagram.com/vp/bcd2df66720e2014cca48035b18eeb49/5B86F805/t51.2885-15/e35/25007282_159987191280672_4653810482140938240_n.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 550px;
+  margin:-20px -10px;
+}
+.myPhoto{
+  height:250px;
+  width:250px;
+  border-radius:1000px;
+  overflow:hidden;
+  position:relative;
+  right:20px;
+  top:150px;
+  float:right;
+}
+.text-center{
+  text-align:center;
+}
+.hello{
+  position:relative;
+  left:0px;
+  top:220px;
+}
+
+.hello h1,h3{
+  font-weight:bold;
+}
+
+.education{
+  margin:30px;
+}
+.education p{
+  font-size:20px;
+}
+.titles{
+background-color:#061922;
+  margin :15px -15px;
+  height:60px;
+  
+  }
+.title-font{
+  padding-top:0px;
+  font-size:25px;
+  color:#ffffff;
+}
+#skills .col-md-3 {
+  font-size:40px;
+  height:200px;
+  background-color:#061922;
+  margin:15px 35px;
+  text-align:center;
+  padding-top:20px;
+  color:#ffffff;
+  display:block;
+}
+.col-md-3 i{
+  font-size:100px;
+}
+
+#portfolio .col-md-4{
+  margin:20px 0px;
+}
+.thumbnail{
+  height:250px;
+  width:350px;
+  margin-bottom:0px;
+}
+.description{
+  color:#364F6B;
+  font-size:20px;
+  font-weight:bold;
+  padding-left:120px;
+  margin-top:10px;
+}
+#contact{
+    background-color: #01323F;
+    margin :15px -15px;
+}
+
+#contact .pages{
+    background: #2a3b4e;
+    padding: 15px;
+}
+
+.social{
+	margin-top: 20px;
+    text-align: center;
+}
+
+.social a {
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.social a:hover {
+    background-color: #f75a56;
+}
+
+.social a i {
+    margin-top: 8px;
+}
+
+a.social-facebook{
+    background: #3664a2;
+}
+a.social-twitter{
+    background: #55acee;
+}
+a.social-codepen{
+    background:#006400;    
+}
+a.social-github{
+    background: #000000;
+}
+a.social-linkedin{
+    background: #0077b5;
+}
+
+#coded{
+	margin-top: 20px;
+	text-align: center;
+	margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #ffffff
+}
+
+#coded .fa-heart{
+	color: #f75a56;
+}
+
+#copyright{
+	text-align: center;
+	margin-bottom: 10px;
+    font-size: 0.8em;	
+    color: #ffffff
+}
